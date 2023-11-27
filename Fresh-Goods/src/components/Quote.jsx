@@ -10,7 +10,7 @@ function Quote() {
 <div className='flex flex-col justify-center items-center h-[100%] text-white max-sm:px-10  max-sm:w-[100%] max-sm:py-36'>
     <p className='text-xl font-bold font-sans' style={{ overflow: 'hidden' }}>What our customers say</p>
     <p className='text-yellow-500 font-bold text-4xl font-mono mt-10' style={{ overflow: 'hidden' }}>"</p>
-    <p className='mt-9 text-4xl transform -skew-x-12 font-serif max-sm:text-lg' style={{ overflow: 'hidden' }}>Share a real testimonial that hits some of your benefits (but isn't too sales-y).</p>
+    <p className='mt-9 text-4xl transform -skew-x-12 font-serif max-sm:text-sm' style={{ overflow: 'hidden' }}>Share a real testimonial that hits some of your benefits (but isn't too sales-y).</p>
     <img className='mt-16 max-sm:w-40' src={some1} alt="" />
     <p className='mt-3 font-bold max-sm:text-lg'style={{ overflow: 'hidden' }}>Real name</p>
     <p className='font-bold text-lg' style={{ overflow: 'hidden' }}>Location</p>
